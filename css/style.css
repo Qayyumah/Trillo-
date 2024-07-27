@@ -171,7 +171,7 @@ body{
 	color: #fff;
 	position: absolute;
 	top: 1.5rem;
-	right: 1.1rem;
+	right: 1.2rem; 
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -385,7 +385,6 @@ body{
 .recommend{
 	font-size: 1.3rem;
 	color: var(--color-grey-dark3);
-
 	display: flex;
 	align-items: center;
 }
@@ -476,7 +475,4 @@ body{
 .btn-visible{
 	display: inline-block;
 	padding: 2rem 7.5rem;
-}
-.btn-invisible{
-
 }
